@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "name": "Talkin O'Bout",
+      "description": "Projet de fin de formation. Nous avons créé un site regroupant des actricles classés par thèmes où les utilisateur peuvent intéragir entre eux et avec le contenu du site.",
+      "link": "",
+      "langs": "TypeScript,JavaScript,PHP-Dark,HTML,CSS,MySQL-Dark",
+      "tools": "TailwindCSS-Dark,React-Dark,Symfony-Dark,Figma-Dark,Markdown-Dark",
+      "date": "Été 2024",
+      "custom": {
+        "text": "Site Web",
+        "link": "https://talkinobout.com"
+      }
+    },
+    {
+      "name": "Makara",
+      "description": "Projet en cours de création. J'ai eu la chance d'intégrer l'équipe de Makara Média en stage juste après le passage de mon titre professionnel. Ce projet a pour but de faciliter la communication des entrepreuneurs et des particuliers sur les réseaux sociaux, avec l'aide de l'intelligence artificielle s'il le souhaite.  ",
+      "link": "",
+      "date": "Septembre 2024 - Aujourd'hui",
+      "langs": "TypeScript,JavaScript,PHP-Dark,HTML,CSS,MySQL-Dark",
+      "tools": "TailwindCSS-Dark,React-Dark,Symfony-Dark,AWS-Dark,Gmail-Dark,Markdown-Dark"
+    }
+  ]
+}

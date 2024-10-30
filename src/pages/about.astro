@@ -1,0 +1,31 @@
+---
+import LinkBtn from "@/components/atoms/LinkBtn.astro";
+import PageLayout from "@/layouts/PageLayout.astro";
+import { paragraphs, resume } from "@/content/data/about.json";
+import { Image } from "astro:assets";
+import favicon from "@/assets/favicon.jpg";
+---
+
+<PageLayout title="About" header="À propos">
+  <div class="flex flex-col md:flex-row gap-6 items-center">
+    <div class="flex flex-col items-center">
+      <Image
+        src={favicon}
+        alt="Square portrait of Clément Rioche"
+        class="max-w-60 max-h-100 rounded-md"
+      />
+      <br />
+      <LinkBtn text="Voir CV" href={resume} target="_blank" />
+    </div>
+    <div class="ml-6">
+      {
+        paragraphs.map((paragraph) => (
+          <>
+            <p>{paragraph}</p>
+            <br />
+          </>
+        ))
+      }
+    </div>
+  </div>
+</PageLayout>
