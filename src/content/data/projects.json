@@ -19,6 +19,18 @@
       "date": "Septembre 2024 - Aujourd'hui",
       "langs": "TypeScript,JavaScript,PHP-Dark,HTML,CSS,MySQL-Dark",
       "tools": "TailwindCSS-Dark,React-Dark,Symfony-Dark,AWS-Dark,Gmail-Dark,Markdown-Dark"
+    },
+    {
+      "name": "M La Vie",
+      "description": "Projet de site vitrine pour un institut de soins, épilation et bien être.",
+      "link": "",
+      "langs": "JavaScript,PHP-Dark,HTML,CSS",
+      "tools": "TailwindCSS-Dark,Markdown-Dark",
+      "date": "Hiver 2025",
+      "custom": {
+        "text": "Site Web",
+        "link": "https://m-lavie.fr"
+      }
     }
   ]
 }
