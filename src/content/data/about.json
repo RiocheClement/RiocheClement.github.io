@@ -1,12 +1,13 @@
 {
   "paragraphs": [
-    "Hello, je suis Clément ! Développeur web spécialisé en back-end et passionné par tout ce qui touche au domaine de la programmation. Après une carrière de plus de dix ans dans l’optique, j’ai entrepris une reconversion professionnelle qui m’a permis d’explorer l’univers du développement web.",
-    "Au cours de cette année, j'ai acquis des compétences approfondies en PHP, notamment en programmation orientée objet, gestion de bases de données et architecture MVC. J'ai également appris à manipuler le framework Laravel, me permettant de développer des applications web robustes et performantes. Plus récemment je me suis spécialisé dans Symfony, framework que j'affectionne particulèrement, élargissant ainsi mes compétences en développement back-end.",
-    "En front-end, je maîtrise JavaScript et React, qui me permettent de créer des interfaces utilisateur interactives et dynamiques, ainsi que Tailwind et Bootstrap pour concevoir des interfaces modernes et intuitives. Mon expertise inclut également l’utilisation de GitHub pour la gestion de projets collaboratifs et le travail en équipe, ainsi que l'exploration de WordPress pour la création et la gestion de sites web.",
-    "Lors de mon stage, que je réalise en ce moment, j’ai pu acquérir des compétences sur les fonctionnalités de Google Cloud pour l'authentification et sur les services AWS pour la gestion de fichiers avec le stockage en 'bucket S3'.",
-    " Tout ceci à été rendu possible grâce à la formation que j'ai suivi, qui a débouché sur l'optention de mon 'Titre professionnel Développeur Web et Web Mobile' et également grâce à la création de projets personnels et professionnels.",
-    "En dehors de mon parcours professionnel, je suis passionné par la culture japonaise, les sports de combat et les nouvelles technologies. Ces centres d'intérêts me motivent à constamment à me remettre en question et ont une influence positive dans mon travail au quotidien et mon dans mes engagements à offrir des solutions de qualité...",
-    "Aujourd'hui je suis disposé à saisir toutes les opportunités professionnelles qui se présenteront à moi dans le développement web, mais aussi dans le développement et la conceptualisation d'applications, pourquoi pas en alternance, ce qui me permetterait d'étendre mon domaine d'expertise. Pour plus d'informations, n'hésitez pas à me contacter !"
+    "Passionné de programmation, j’ai entrepris une reconversion après dix ans dans l’optique pour me spécialiser en développement web.",
+    "✔ Back-end : PHP (POO, MVC), Laravel, Symfony",
+    "✔ Front-end : JavaScript, React, Tailwind, Bootstrap",
+    "✔ Outils & DevOps : GitHub, WordPress, Google Cloud (authentification), AWS (S3)",
+    "Diplômé en Développement Web et Web Mobile, j’ai renforcé mes compétences à travers des projets personnels et un stage enrichissant. Curieux et en constante évolution, je suis ouvert aux opportunités (emploi ou alternance) pour élargir mon expertise.",
+    "Contactez-moi !",
+    "📞 06.61.04.43.67",
+    "✉️ riocheclement@gmail.com"
   ],
   "resume": "/cv_clement_rioche.pdf"
 }
